@@ -12,4 +12,4 @@ Instagram Bot that download photo from given hashtag and upload it with caption.
 
 ### INSTAGRAM - _@singhanuj620_
 
-THANK YOU
+THANK YOU.
